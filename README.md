@@ -138,14 +138,7 @@ The website includes football-related images, competition information, social me
 
 ---
 
-## 👨‍💻 Author
 
-**Oussama Bouhali**
-
-Computer Science Engineer — ENSI
-AI & Data Science | Business Intelligence & Finance
-
----
 
 ## 📄 License
 
