@@ -59,7 +59,7 @@ Links to football-related social media pages on:
 * Facebook
 
 ---
-## 📸 Project Screenshots
+## 📸 Application Pages
 
 ### 🏠 Home Page
 
