@@ -74,19 +74,21 @@ Links to football-related social media pages on:
 ```text
 Football-Cups-Competitions/
 │
-├── index.html
-├── Histoire.html
-├── UEFA.html
-├── Europa.html
-├── CAF.html
-├── AFC.html
-├── Copa.html
-├── CONCACAF.html
+├── PAGES_HTML
+│   ├── index.html
+│   ├── Histoire.html
+│   ├── UEFA.html
+│   ├── Europa.html
+│   ├── CAF.html
+│   ├── AFC.html
+│   ├── Copa.html
+│   ├── CONCACAF.html
 │
 ├── projet.css
 ├── Principal.css
 │
 ├── images/
+│   ├── pages/
 │   ├── logo1.jpg
 │   ├── foot.jpg
 │   ├── twitter.jpg
