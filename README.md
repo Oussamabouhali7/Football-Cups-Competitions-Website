@@ -59,6 +59,42 @@ Links to football-related social media pages on:
 * Facebook
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](images/pages/page_acceuil.png)
+
+### ⚽ Football History
+
+![Football History](images/pages/page_histoire_football.png)
+
+### 🏆 UEFA Champions League
+
+![UEFA](images/pages/page_UEFA.png)
+
+### 🏆 UEFA Europa League
+
+![Europa League](images/pages/page_Europa_league.png)
+
+### 🌍 CAF Champions League
+
+![CAF](images/pages/page_CAF.png)
+
+### 🌏 AFC Champions League
+
+![AFC](images/pages/page_AFC.png)
+
+### 🌎 CONCACAF Champions League
+
+![CONCACAF](images/pages/page_CONCACAF.png)
+
+### 🏆 Copa Libertadores
+
+![Copa Libertadores](images/pages/page_copa_libertadors.png)
+
+---
+
 
 ## 🛠️ Technologies Used
 
